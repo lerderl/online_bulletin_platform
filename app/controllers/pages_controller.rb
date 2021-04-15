@@ -1,5 +1,10 @@
 class PagesController < ApplicationController
   def home
-    render html: 'Hello World!'
+  end
+
+  def signup
+  end
+
+  def login
   end
 end
